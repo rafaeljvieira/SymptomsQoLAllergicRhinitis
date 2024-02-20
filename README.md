@@ -25,6 +25,8 @@ This repository contains supplementary materials associated with the article tit
 
 ## Contents
 
+In supplement.pdf, you may find:
+
 - **Supplementary Methods**: Additional details regarding the methodology described in the main manuscript.
 - **Table S1**: Characteristics of the MASK-air sample used.
 - **Table S2**: Spearman correlation coefficients between Visual Analogue Scales (VAS) referring to allergy symptoms and utilities or EQ-5D VAS (both considering all patients and restricting to patients who had filled in the full EQ-5D questionnaire).
