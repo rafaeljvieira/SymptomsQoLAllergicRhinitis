@@ -2,6 +2,16 @@
 
 This repository contains supplementary materials associated with the article titled "Impact of uncontrolled symptoms in health-related quality of life (EQ-5D-5L) of patients with allergic rhinitis: a MASK-air study". The supplementary materials provided here aim to complement the information presented in the article and facilitate further analysis and understanding of the research findings.
 
+## Contents
+
+In supplement.pdf, you may find:
+
+- **Supplementary Methods**: Additional details regarding the methodology described in the main manuscript.
+- **Table S1**: Characteristics of the MASK-air sample used.
+- **Table S2**: Spearman correlation coefficients between Visual Analogue Scales (VAS) referring to allergy symptoms and utilities or EQ-5D VAS (both considering all patients and restricting to patients who had filled in the full EQ-5D questionnaire).
+- **Table S3**: Differences in utilities and EQ-5D VAS levels associated with not well controlled nose, eye, and asthma symptoms, considering all participants.
+- **References**: Supplementary references supporting the supplementary methods.
+
 ## Authors
 
 - Rafael José Vieira
@@ -23,15 +33,6 @@ This repository contains supplementary materials associated with the article tit
 - Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, Allergology and Immunology, Berlin, Germany
 - MASK-air SAS, Montpellier, France
 
-## Contents
-
-In supplement.pdf, you may find:
-
-- **Supplementary Methods**: Additional details regarding the methodology described in the main manuscript.
-- **Table S1**: Characteristics of the MASK-air sample used.
-- **Table S2**: Spearman correlation coefficients between Visual Analogue Scales (VAS) referring to allergy symptoms and utilities or EQ-5D VAS (both considering all patients and restricting to patients who had filled in the full EQ-5D questionnaire).
-- **Table S3**: Differences in utilities and EQ-5D VAS levels associated with not well controlled nose, eye, and asthma symptoms, considering all participants.
-- **References**: Supplementary references supporting the supplementary methods.
 
 ## License
 
